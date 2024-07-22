@@ -12,6 +12,7 @@ body {
   display: flex;
   justify-content: space-around;
   align-items: center;
+  position:fixed;
   min-height: 4rem;
   box-shadow: 0 -5px 20px black;
 }
@@ -28,7 +29,7 @@ h4 {
   text-decoration: none;
   font-size: 20px;
   margin-left: 10px;
-  color: rgb(168, 206, 250);
+  color: rgb(16, 99, 194);
 }
 .nav-links li :hover {
   background: rgb(3, 133, 133);
